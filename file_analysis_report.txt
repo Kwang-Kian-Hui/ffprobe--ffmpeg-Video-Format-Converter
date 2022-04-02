@@ -1,0 +1,5 @@
+Cosmos_War_of_the_Planets.mp4 - video_frame_rate aspect_ratio resolution channels_layout 
+Last_man_on_earth_1964.mov - file_format video_codec audio_codec video_frame_rate video_bitrate channels_layout 
+The_Hill_Gang_Rides_Again.mp4 - video_frame_rate video_bitrate channels_layout 
+Voyage_to_the_Planet_of_Prehistoric_Women.mp4 - video_codec audio_codec video_frame_rate video_bitrate channels_layout 
+The_Gun_and_the_Pulpit.avi - file_format video_codec audio_codec video_frame_rate aspect_ratio resolution video_bitrate channels_layout 
